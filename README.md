@@ -11,6 +11,8 @@ This project is dedicated to recognizing faces of five Avengers, either individu
 4. A finely-tuned Inception-ResNet-V1 model.
 
 The standout performer is our fourth method, achieving an impressive 99.7% accuracy for individual Avenger recognition and 90% in scenarios involving all five Avengers. 
+![Screenshot of the performance1](./images/recognition at same time.png)
+![Screenshot of the performance2](./images/recognition in stream.png)
 
 ## Table of Contents
 
