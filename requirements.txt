@@ -1,0 +1,10 @@
+torch
+pickle
+matplotlib
+numpy
+opencv-python
+pillow
+facenet_pytorch
+Ipython
+deepface
+yoloface
