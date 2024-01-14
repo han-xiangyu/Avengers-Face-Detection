@@ -2,6 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+## Video
+Here are the [project presentation](https://youtu.be/ISsOVnck6pk) and the [recognition performance in stream](https://youtu.be/3-7-CXVs36o).
+
 ## Description
 
 This project is dedicated to recognizing faces of five Avengers, either individually or in a group image. We have implemented four  methods:
